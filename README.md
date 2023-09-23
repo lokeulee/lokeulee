@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone 👋
 
 <!--
 **lokeulee/lokeulee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Eu Lee, an ex-chemical engineer currently pursuing the world of tech. I am currently a 42 Kuala Lumpur Cadet that has just completed the common core and is thinking  I am in the midst of my journey to find what I find the most interesting to pursue.
+
+![](https://komarev.com/ghpvc/?username=lokeulee)
