@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
+***
 
 I am Eu Lee, an ex-chemical engineer currently pursuing the world of tech. I am currently a 42 Kuala Lumpur Cadet that has just completed the common core and is thinking  I am in the midst of my journey to find what I find the most interesting to pursue.
 
-<br>
+***
 
 ![](https://komarev.com/ghpvc/?username=lokeulee)
 
@@ -29,7 +29,7 @@ I am Eu Lee, an ex-chemical engineer currently pursuing the world of tech. I am 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br>
+***
 
 ### Tools
 
@@ -48,10 +48,10 @@ I am Eu Lee, an ex-chemical engineer currently pursuing the world of tech. I am 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-<br>
+***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeulee&show_icons=true&theme=radical)
 
-<br>
+***
 
 
