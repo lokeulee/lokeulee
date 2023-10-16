@@ -58,7 +58,7 @@ I am Eu Lee, an ex-chemical engineer currently pursuing the world of tech. I am 
 
 
 
-
+<!--
 <div>
 	<a href="https://git-scm.com/">
     		<img alt="Git" style="align:left; width:80px;" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />&nbsp&nbsp
@@ -76,6 +76,7 @@ I am Eu Lee, an ex-chemical engineer currently pursuing the world of tech. I am 
 		<img alt="Github" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp&nbsp
 	</a>
 </div>
+-->
 
 ***
 
