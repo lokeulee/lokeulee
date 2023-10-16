@@ -56,6 +56,27 @@ I am Eu Lee, an ex-chemical engineer currently pursuing the world of tech. I am 
 
 ![lokeulee's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeulee&show_icons=true&theme=radical)
 
+
+
+
+<div>
+	<a href="https://git-scm.com/">
+		<img alt="Git" style="align:left; width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp&nbsp
+	</a>
+	<a href="https://www.gnu.org/software/bash/">
+		<img alt="Bash" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp&nbsp
+	</a>
+	<a href="https://www.vim.org/">
+		<img alt="VIM" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />&nbsp&nbsp
+	</a>
+	<a href="https://code.visualstudio.com/">
+		<img alt="Visual Studio Code" style="width:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp&nbsp
+	</a>
+	<a href="https://github.com/">
+		<img alt="Github" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp&nbsp
+	</a>
+</div>
+
 ***
 
 
